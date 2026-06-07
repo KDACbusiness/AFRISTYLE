@@ -1,0 +1,8 @@
+{
+  "name": "AfriStyle E-Commerce",
+  "description": "A high-performance, visually stunning clothing e-commerce platform inspired by Jumia, featuring AI-powered personal shopping assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
